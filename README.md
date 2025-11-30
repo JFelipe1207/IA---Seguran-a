@@ -28,13 +28,7 @@ Um anel de partículas animadas em **Three.js**, inspirado em interfaces futuris
 - Estilo **glassmorphism de baixa opacidade**  
 - Cores suaves em tons azul e violeta  
 - Títulos com barras de destaque  
-- Conteúdo limpo, organizado e elegante  
-
-### 🖼️ Galerias laterais (PC)
-Imagens relevantes sobre IA, cibersegurança, data centers e tecnologia aparecendo nas laterais da página.
-
-### 📱 Carrossel de imagens no mobile
-Versão especial para celulares com cards grandes, estilo pôster, roláveis horizontalmente.
+- Conteúdo limpo, organizado e elegante
 
 ### 📘 Conteúdo educacional
 Inclui:
